@@ -1,0 +1,100 @@
+/* estilos.css */
+body {
+font-family: Arial, sans-serif;
+background-color: #000000e7;
+font-family: sans-serif;
+}
+  
+h1 {
+text-shadow: red;
+font-family: Anton;
+font-size: 1,3em;
+color: #FFFFFF;
+}
+  
+h2 {
+text-shadow: red;  
+font-family: Anton; 
+font-style: oblique
+font-size: 1,2em;
+color: #FFFFFF;
+}
+
+h3 {
+text-shadow: red;
+font-family: Anton;
+font-style: oblique
+font-size: 1em;
+color: #FFFFFF;
+}
+.paragrafo {
+word-spacing: 3px;
+text-indent: 8px;
+text-transform: none;   
+text-shadow: black;
+text-align: left; 
+text-decoration: solid;  
+font-family: Cormorant Garamond;
+font-style: @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&family=Young+Serif&display=swap');
+letter-spacing: 2px;
+line-height: 35px;
+font-size: 1,3em;
+color: #FF0000;
+}
+  
+p {
+word-spacing: 3px;
+text-indent: 8px;
+text-transform: none;  
+text-shadow: black;
+text-align: left;  
+text-decoration: solid;    
+font-family: Cormorant Garamond;
+font-style: @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&family=Young+Serif&display=swap');
+line-height: 35px;
+font-size: 1,3em;
+color: #FF0000
+}
+  
+button {
+background-color: #FFFFFF;
+color: #000000;
+font-size: 1em;
+width: 118px;
+height: 30px;
+}
+  
+#titulo {
+font-size: 6em;
+color: black;
+font-style: oblique
+font-family: Anton;
+}
+  
+.titulo {
+font-size: 6em;
+color: black;
+font-family: Anton;
+font-style: oblique
+}
+  
+.principal {
+font-size: 6em;  
+background-color: #ccc;
+font-family: Anton;
+font-style: oblique
+
+}
+  
+.principal .titulo {
+font-size: 3em;
+color: black
+font-family: Anton;
+font-style: oblique
+}
+  
+button:hover {
+background-color: #FFFFFF;
+color: #000000;
+}
+  
